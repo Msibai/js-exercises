@@ -40,6 +40,16 @@ h1 {
   font-size: 7vw;
   text-shadow: 3px 4px 0 rgba(0,0,0,0.2);
 }
+.sticky nav {
+  position: fixed;
+  box-shadow: 0 3px gray;
+}
+
+.sticky li.logo {
+  max-width: 400px;
+ 
+}
+
 
 nav {
   background: black;
